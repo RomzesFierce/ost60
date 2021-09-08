@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LifeIsMotion", "LifeIsMotion\LifeIsMotion.pyproj", "{48294E4D-6B85-48B4-9865-E640B8D5475D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48294E4D-6B85-48B4-9865-E640B8D5475D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48294E4D-6B85-48B4-9865-E640B8D5475D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48294E4D-6B85-48B4-9865-E640B8D5475D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48294E4D-6B85-48B4-9865-E640B8D5475D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DCB2776-214F-4B8C-A2C7-E67856F94945}
+	EndGlobalSection
+EndGlobal
